@@ -6,3 +6,6 @@
 # Docente: Walter Hugo Arboleda Mazo
 En este repositorio están los entregables relacionados con los ejercicios de seguimiento Actividad 1: individual 10% con ejercicio 4, 5, 12, 14 y 17.
 Para esta actividad se trabajo con Python o mas específicamente Google Colab, en el documento PDF encontrara la portada, código fuente de cada ejercicio, el diagrama de clases para cada ejercicio y la URL de cada ejercicio en Colab, en adición la URL de este repositorio.
+
+PDF
+[Programación Orientada a Objetos JMMA 1017243551cc.pdf](https://github.com/user-attachments/files/32360448/Programacion.Orientada.a.Objetos.JMMA.1017243551cc.pdf)
